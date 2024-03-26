@@ -8,21 +8,23 @@ _Date: March 18, 2024_
 
 ## Contents
 
-- [Executive Summary](#executive-summary)
-- [Future Customer Quotes](#future-customer-quotes)
-  - [Drivers](#drivers)
-  - [Riders](#riders)
-- [Model Overview](#model-overview)
-- [Internal FAQ](#internal-faq)
-- [Conclusion](#conclusion)
-- [Appendix A: Key Steps in the Modeling Process](#appendix-a-key-steps-in-the-modeling-process)
-- [Appendix B: Sources](#appendix-b-sources)
+- [Case 1: Lyft-off At Toledo Airport](#case-1-lyft-off-at-toledo-airport)
+  - [Contents](#contents)
+  - [Executive Summary](#executive-summary)
+  - [Future Customer Quotes](#future-customer-quotes)
+    - [Drivers](#drivers)
+    - [Riders](#riders)
+  - [Model Overview](#model-overview)
+  - [Internal FAQ](#internal-faq)
+  - [Conclusion](#conclusion)
+  - [Appendix A: Key Steps in the Modeling Process](#appendix-a-key-steps-in-the-modeling-process)
+  - [Appendix B: Sources](#appendix-b-sources)
 
 ---
 
 ## Executive Summary
 
-As the stand-in pricing product manager for Lyft’s ride-scheduling feature, this report presents pricing recommendations for Lyft’s new route between Toledo Express Airport and downtown Toledo. Utilizing detailed modeling and analysis, an optimal take per ride of $4.50 was identified, maximizing both net revenue and profit by year-end.
+As the stand-in pricing product manager for Lyft’s ride-scheduling feature, this report presents pricing recommendations for Lyft’s new route between Toledo Express Airport and downtown Toledo. Utilizing detailed modeling and analysis, an optimal take per ride of $3.60 was identified, maximizing both net revenue and profit by year-end.
 
 Key assumptions and variables impacting the analysis include Driver and Rider Customer Acquisition Costs (CAC), average rides per month, churn rates, and match rates at different take levels. The detailed approach led to a recommended strategy that considers the balance between driver supply, rider demand, and overall profitability.
 
@@ -64,7 +66,7 @@ The model meticulously evaluates the impact of varying Lyft’s take on driver s
 
 ## Conclusion
 
-The analysis for "Lyft-off At Toledo Airport" identifies a $4.50 take per ride as optimal for maximizing year-end net revenue and profit, considering the dynamics of driver supply, rider demand, and operational costs. This strategic pricing recommendation aims to sustain a healthy ecosystem while supporting Lyft's growth and service reliability.
+The analysis for "Lyft-off At Toledo Airport" identifies a $3.60 take per ride as optimal for maximizing year-end net revenue and profit, considering the dynamics of driver supply, rider demand, and operational costs. This strategic pricing recommendation aims to sustain a healthy ecosystem while supporting Lyft's growth and service reliability.
 
 ---
 
